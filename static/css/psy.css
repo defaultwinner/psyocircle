@@ -1,0 +1,50 @@
+body{
+	background:#666 url('../images/psy_1.jpg') no-repeat fixed center;
+}
+.wrapper{
+	width:960px;
+	margin:auto;
+	background-color:#AAA;
+	opacity:0.7;
+	padding:50px 10px;
+}
+.heading{
+	    position:fixed;
+    margin: 0 auto;
+    top: 0px;
+    left:0;
+    right:0;
+    background-color:#720;
+    color:#fff;
+    z-index:5000;
+    width:50px;
+}
+#heading_text{
+	font-size: 2em;
+	font-weight: bold;
+	font-style: oblique;
+	font-family: monospace;
+	color: lemonchiffon;
+}
+.psy_para{
+	margin: 10px 5px;
+}
+.psy_details_para{
+	margin: 15px 5px;
+}
+.detail_left{
+	float:left;
+	width:80px;
+	font-family: monospace;
+}
+.detail_right{
+	float:left;
+	margin:0 0 0 15px;
+}
+.clear_both{
+	clear:both;
+}
+.heading{
+	width:100%;
+	margin:auto;
+}
